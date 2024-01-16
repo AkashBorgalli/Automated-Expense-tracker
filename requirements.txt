@@ -1,0 +1,6 @@
+### dependencies###
+
+matplotlib
+pandas
+inflect==5.3.0
+pytest
