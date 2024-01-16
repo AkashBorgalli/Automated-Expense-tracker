@@ -1,6 +1,6 @@
 # Automated Expense Tracker
 
-#### Video Demo: [Demo Video](<URL HERE>)
+#### Video Demo: [Demo Video](https://youtu.be/pOulFxgl3TA)
 
 #### Description:
 The Automated Expense Tracker is a Python program designed to simplify the process of tracking and managing expenses. The program allows users to input their daily expenses, categorize them, and generate a summary report. It also features graphical visualizations for expense distribution, the ability to add money to Forex or AIB accounts, and checking balances in both accounts.
